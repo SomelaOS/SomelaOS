@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi X 👋
+# Looking for Work
 
+### archangelic
+making bot frameworks in my spare time
+
+interested in irc, go, python
 <!--
 **SomelaOS/SomelaOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
